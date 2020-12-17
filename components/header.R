@@ -3,4 +3,4 @@
 # 
 # Create the header for the ui.
 ###################
-header <- dashboardHeader(title = "Super Cool Header")
+header <- dashboardHeader(title = "Calidad del Aire")
