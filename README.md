@@ -1,4 +1,16 @@
-# Shiny-Dashboard-Template
+# Shiny-Dashboard-airquality
+
+## Shiny Basics
+* Galería de inputs: https://shiny.rstudio.com/gallery/widget-gallery.html 
+* Outputs reactivos: https://shiny.rstudio.com/tutorial/written-tutorial/lesson4/
+* Shiny cheatsheet: https://shiny.rstudio.com/images/shiny-cheatsheet.pdf
+
+## Shiny Dashboard
+* Documentación de la librería: https://rstudio.github.io/shinydashboard/
+
+## Datos calidad aire Gijón
+* Serie año actual validada: https://www.gijon.es/es/datos/calidad_aire_actual_validos
+* Descripción parámetros recogidos: https://www.gijon.es/es/datos/calidad_aire_parametros)
 I have seen a ton of examples for either [Shiny](https://shiny.rstudio.com/) or [Shiny Dashboard](https://rstudio.github.io/shinydashboard/) apps 
 with all of the code living in either one file, or two files (ui and server).
 I personally like to compartmentalize my code in a way that's manageable, and easy to break out or re-use.
