@@ -3,7 +3,7 @@
 Sencillo dashboard para ilustrar cómo implementar un dashboard en `R` con la librería `shinydashboard` en el Máster MANADINE (2020).
 
 ## Estructura del repo 
-Basada en la plantilla de (tailorperkins/Shiny-Dashboard-Template)[ taylorperkins/Shiny-Dashboard-Template], que apuesta por un modelo sencillo y limpio para la gestión del interfaz, la lógica de la aplicación y los requerimientos.
+Basada en la plantilla de [tailorperkins/Shiny-Dashboard-Template](taylorperkins/Shiny-Dashboard-Template), que apuesta por un modelo sencillo y limpio para la gestión del interfaz, la lógica de la aplicación y los requerimientos.
 
 ## Recursos de apoyo
 ## Shiny Basics
