@@ -1,7 +1,8 @@
 # Shiny-Dashboard-airquality
 
 Sencillo dashboard para ilustrar cómo implementar un dashboard en `R` con la librería `shinydashboard` en el Máster MANADINE (2020).
-<img src="shiny_dashboard.png" alt="dashboard" width="200"/>
+
+<img src="shiny_dashboard.png" alt="dashboard" width="400"/>
 
 ## Estructura del repo 
 Basada en la plantilla de [tailorperkins/Shiny-Dashboard-Template](https://github.com/taylorperkins/Shiny-Dashboard-Template), que apuesta por un modelo sencillo y limpio para la gestión del interfaz, la lógica de la aplicación y los requerimientos.
