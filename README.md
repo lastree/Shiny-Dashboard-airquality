@@ -16,6 +16,15 @@ Basada en la plantilla de [tailorperkins/Shiny-Dashboard-Template](https://githu
 ## Shiny Dashboard
 * Documentación de la librería: https://rstudio.github.io/shinydashboard/
 
+### Librerías de visualización de datos
+* Librería ggplot2: https://ggplot2.tidyverse.org/
+* Librería Plotly: https://plotly.com/r/
+* Librería viridis (paletas de colores): https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html 
+* Librería Leaflet: https://rstudio.github.io/leaflet/
+
+## Otras librerías
+* Librería data.table: https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html
+
 ## Datos calidad aire Gijón
 * Serie año actual validada: https://www.gijon.es/es/datos/calidad_aire_actual_validos
 * Descripción parámetros recogidos: https://www.gijon.es/es/datos/calidad_aire_parametros)
